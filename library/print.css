@@ -1,0 +1,12 @@
+ #print_butt{
+    display:none;
+  }
+  input{
+    border:none;font-weight:bolder;float:right;width:250px;
+  }
+  #main{
+    width:450px;
+    }
+ .button, .submit input, .button-secondary{
+    display:none;
+  }
